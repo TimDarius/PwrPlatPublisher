@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_cdi_timeentries" />
+  <EntityRelationship Name="cdi_cdi_timeentries_contact" />
+  <EntityRelationship Name="lk_cdi_timeentries_createdby" />
+  <EntityRelationship Name="lk_cdi_timeentries_modifiedby" />
+  <EntityRelationship Name="owner_cdi_timeentries" />
+  <EntityRelationship Name="team_cdi_timeentries" />
+  <EntityRelationship Name="user_cdi_timeentries" />
+</EntityRelationships>
